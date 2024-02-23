@@ -10,14 +10,14 @@
     "react/jsx-uses-react": 2,
     "react/jsx-uses-vars": 2,
     "react/react-in-jsx-scope": 2,
-    "indent": [2, 4, {"SwitchCase": 1}],
+    "indent": 0,
     "comma-dangle": 0,
     "react/jsx-boolean-value": 0,
     "react/no-multi-comp": 0,
     "react/prop-types": 0,
     "id-length": 0,
     "no-console": 0,
-    "no-nested-ternary": 0
+    "no-nested-ternary": 0,
   },
   "plugins": [
     "react"
